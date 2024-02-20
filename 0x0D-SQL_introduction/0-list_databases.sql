@@ -3,4 +3,3 @@
 -- This script retrieves the list of all databases on the MySQL server.
 
 SHOW DATABASES;
-
